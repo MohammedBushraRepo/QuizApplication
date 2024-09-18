@@ -1,4 +1,4 @@
-import 'package:adv_basics/models/quiz_question.dart';
+import 'package:adv_basics/models/quiz_question.dart'; //created questionsa form the Model
 
 const questions = [
   QuizQuestion(
